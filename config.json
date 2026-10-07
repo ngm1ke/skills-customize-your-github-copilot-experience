@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "recursive-problem-solving",
+      "title": "Recursive Problem Solving",
+      "description": "Practice recursion with factorial and recursive list-summing functions in Python.",
+      "path": "assignments/recursive-problem-solving",
+      "dueDate": "2026-10-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
